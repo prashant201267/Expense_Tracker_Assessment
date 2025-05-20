@@ -1,0 +1,5 @@
+type,category,amount,date
+income,salary,5000,2025-05-01
+expense,food,100,2025-05-03
+expense,travel,200,2025-05-04
+income,business,1500,2025-05-07
